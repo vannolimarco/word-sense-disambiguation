@@ -60,17 +60,17 @@
       -README.md #this file
       -report.pdf #the report 
 
-  
- #information
- inside the folder resources, can find twosub folder:
- evaluations and predictions, in evaluation there are all 
- file gold used to evaluate the score F1 for each evalaution datasets.
- in predictions there are all predictions obtained with the best model.
- in teh same forder resources can find the file for model: model.json and
- weights.h5; besiedes can find the file to load the model of words emebeddings ttrained. The same forlder 
- includes the mapping babelnet-domains-lexnames provided.
- inside the folder code there are all code; the code run_gold_evaluation.py
- and run_preprocessing are only read because many file were deleted from repository.
+
+## information
+inside the folder resources, can find twosub folder:
+evaluations and predictions, in evaluation there are all 
+file gold used to evaluate the score F1 for each evalaution datasets.
+in predictions there are all predictions obtained with the best model.
+in teh same forder resources can find the file for model: model.json and
+weights.h5; besiedes can find the file to load the model of words emebeddings ttrained. The same forlder 
+includes the mapping babelnet-domains-lexnames provided.
+inside the folder code there are all code; the code run_gold_evaluation.py
+and run_preprocessing are only read because many file were deleted from repository.
 
  
 
