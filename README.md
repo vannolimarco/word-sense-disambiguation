@@ -1,5 +1,5 @@
 # Welcome to Vannoli Marco github 
-The repository is dedicated to reinforcement learning and the word sense disanbiguation. Inside it, you will find the code implemented and results about project. It has been implemented using babelnet and wordnet data.
+The repository is dedicated to the state-of-art of NLP, in this case the word sense disanbiguation. Inside it, you will find the code implemented and results about project. It has been implemented using babelnet and wordnet data.
 # Report about it
 The report producted by my self you can find inside the repository. Enjoy!
 # Info about me
