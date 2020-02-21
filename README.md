@@ -1,6 +1,15 @@
-# NLP Homework 3
+# Welcome to Vannoli Marco github 
+The repository is dedicated to reinforcement learning and the word sense disanbiguation. Inside it, you will find the code implemented and results about project. It has been implemented using babelnet and wordnet data.
+# Report about it
+The report producted by my self you can find inside the repository. Enjoy!
+# Info about me
+I am a student at the faculty of Artificial Inteligent and robotics of Sapienza (Rome). I am originally from Subiaco (RM) and I am passionate about the world of robotics and artificial intelligence, I am always active and enthusiastic when there is a new project to do, like this one!
 
-## skeleton
+## Support or Contact
+my email: vannolimarco@hotmail.it, thanks!
+
+
+## skeleton of project
       |_code       #all code 
         |_ pathconfig.py #file py to manage all paths
         |_ predict.py #code for predictions
@@ -62,7 +71,7 @@
 
 
 ## information
-inside the folder resources, can find twosub folder:
+inside the folder resources, can find two sub folder:
 evaluations and predictions, in evaluation there are all 
 file gold used to evaluate the score F1 for each evalaution datasets.
 in predictions there are all predictions obtained with the best model.
