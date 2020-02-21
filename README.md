@@ -1,3 +1,5 @@
+![Logo Sapienza](/logo-sapienza-new.jpg)
+
 # Welcome to Vannoli Marco github 
 The repository is dedicated to the state-of-art of NLP, in this case the word sense disanbiguation. Inside it, you will find the code implemented and results about project. It has been implemented using babelnet and wordnet data.
 # Report about it
